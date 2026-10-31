@@ -7,12 +7,12 @@
 #include <ArduinoJson.h>
 
 // Enter your credentials locally. Do not share passwords.
-#define WIFI_SSID       "OPPOReno"
-#define WIFI_PASSWORD   "55555555"
-#define API_KEY         "AIzaSyDNs6nRbb8dZ9ig4CigAxpXo4XYgRvQb6A"
-#define DATABASE_URL    "https://edgeguard-1f55c-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define USER_EMAIL      "akashkash0550@gmail.com"
-#define USER_PASSWORD   "edgegurad"
+#define WIFI_SSID       "WIFI_NAME"
+#define WIFI_PASSWORD   "WIFI_PASSWORD"
+#define API_KEY         "WEB API KEY"
+#define DATABASE_URL    "DATABASE URL"
+#define USER_EMAIL      "AUTHENTICATION EMAIL"
+#define USER_PASSWORD   "AUTHENTICATION PASSWORD"
 
 HardwareSerial STM32Serial(2);
 
